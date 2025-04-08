@@ -1,0 +1,15 @@
+[submodule "backend/quickcommerce-backend"]
+	path = backend/quickcommerce-backend
+	url = https://github.com/roguetitan1703/quickcommerce-backend.git
+[submodule "frontend/snap-admin-dashboard"]
+	path = frontend/snap-admin-dashboard
+	url = https://github.com/roguetitan1703/snap-admin-dashboard.git
+[submodule "frontend/snap-quick-commerce"]
+	path = frontend/snap-quick-commerce
+	url = https://github.com/roguetitan1703/snap-quick-commerce.git
+[submodule "model/Smart_Retail_Inventory_-_Demand_Prediction_System"]
+	path = model/Smart_Retail_Inventory_-_Demand_Prediction_System
+	url = https://github.com/MeetShah20/Smart_Retail_Inventory_-_Demand_Prediction_System.git
+[submodule "model/product-recommendation-microservice"]
+	path = model/product-recommendation-microservice
+	url = https://github.com/roguetitan1703/product-recommendation-microservice.git
